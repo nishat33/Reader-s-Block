@@ -1,0 +1,1 @@
+Reader's Block is similar to a social-media a website for reviewing book. The user can upload a review, along with the photo, and the other users can like the reviews. The website is built using HTML5, CSS and Bootstrap.
